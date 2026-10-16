@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "skins": [
+    {
+      "id": "gunmetal",
+      "name": "Gunmetal",
+      "minModVersion": "2.3.0",
+      "tintable": false,
+      "files": {
+        "vent": { "path": "skins/gunmetal/vent.png", "sha256": "aa9ffc8bc81e7b568a405795a9942ab3073a3394c077fee803c913104b02dcc9" },
+        "tube": { "path": "skins/gunmetal/tube.png", "sha256": "78651280cb5d1fb36d98808e36c55c4084e42edf3b582b52d81c91ad3b40a657" }
+      }
+    }
+  ]
+}
