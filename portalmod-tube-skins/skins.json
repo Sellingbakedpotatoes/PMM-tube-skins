@@ -7,8 +7,30 @@
       "minModVersion": "2.3.0",
       "tintable": false,
       "files": {
-        "vent": { "path": "skins/gunmetal/vent.png", "sha256": "aa9ffc8bc81e7b568a405795a9942ab3073a3394c077fee803c913104b02dcc9" },
-        "tube": { "path": "skins/gunmetal/tube.png", "sha256": "78651280cb5d1fb36d98808e36c55c4084e42edf3b582b52d81c91ad3b40a657" }
+        "vent": {
+          "path": "skins/gunmetal/vent.png",
+          "sha256": "aa9ffc8bc81e7b568a405795a9942ab3073a3394c077fee803c913104b02dcc9"
+        },
+        "tube": {
+          "path": "skins/gunmetal/tube.png",
+          "sha256": "78651280cb5d1fb36d98808e36c55c4084e42edf3b582b52d81c91ad3b40a657"
+        }
+      }
+    },
+    {
+      "id": "dark_mode",
+      "name": "Dark Mode",
+      "minModVersion": "2.3.0",
+      "tintable": false,
+      "files": {
+        "vent": {
+          "path": "skins/dark_mode/vent.png",
+          "sha256": "d62e37938ea4824a152634535ee474b618c8df1cb842f29e2fd570ae652f89e4"
+        },
+        "tube": {
+          "path": "skins/dark_mode/tube.png",
+          "sha256": "a4fe7e84da18e0bdaeaaf26a744714d4dae6967b6eb8a6f70e76be4d957914f2"
+        }
       }
     }
   ]
