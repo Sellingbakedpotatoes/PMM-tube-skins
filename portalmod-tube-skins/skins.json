@@ -32,6 +32,26 @@
           "sha256": "a4fe7e84da18e0bdaeaaf26a744714d4dae6967b6eb8a6f70e76be4d957914f2"
         }
       }
+    },
+    {
+      "id": "vintage",
+      "name": "Vintage",
+      "minModVersion": "2.3.0",
+      "tintable": false,
+      "files": {
+        "vent": {
+          "path": "skins/vintage/vent.png",
+          "sha256": "6ee95b06870e3cea6c570d3afd47bf60a6cab9ff40b5381436c38ee9061427b4"
+        },
+        "tube": {
+          "path": "skins/vintage/tube.png",
+          "sha256": "4694c729507492d279b37c7b6d5fe00ffbc60cb35ee47d6e4d77e488839e4031"
+        },
+        "mouths": {
+          "path": "skins/vintage/mouths.json",
+          "sha256": "5fe91cc98d565d3da7b281c53d88255aa29052ce1f5f4e0328519523705f7cbf"
+        }
+      }
     }
   ]
 }
