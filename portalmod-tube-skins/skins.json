@@ -64,6 +64,7 @@
       "minModVersion": "2.3.1",
       "tintable": false,
       "ventTubeOffset": -3,
+      "boxClosed": "panel",
       "files": {
         "vent": {
           "path": "skins/vintage/vent.png",
